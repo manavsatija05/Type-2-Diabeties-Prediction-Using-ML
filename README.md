@@ -9,7 +9,7 @@ Performance comparison of ML algorithms
 Diabetes prediction system implementation
 
 
-#Project Workflow
+# Project Workflow
 Importing the Dataset
 Data Cleaning & Preprocessing
 Exploratory Data Analysis (EDA)
